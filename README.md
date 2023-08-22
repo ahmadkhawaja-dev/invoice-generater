@@ -33,4 +33,4 @@ npm start / npm run build
 
 ### Meta
 
-John Uberbacher – [ahmadkhawaja.com](https://dev-ahmadkhawaja.pantheonsite.io)
+Ahmed – [ahmadkhawaja.com](https://dev-ahmadkhawaja.pantheonsite.io)
